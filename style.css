@@ -1,0 +1,60 @@
+#title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 350%;
+    color: gold;
+    /* display:block */
+    
+}
+
+body{
+    background-color: red;
+}
+
+#navBar{
+  
+    text-align: center;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+    /* font-size: 125%; */
+    color: gold;
+}
+
+#movieList{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+
+
+}
+
+#introP{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
+
+#countDown {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    /* size: 75%; */
+  }
+
+  #filmStrip {
+    width: 10%;
+    height: 10%;
+    float: left;
+    padding-bottom: 50px;
+  }
