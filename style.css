@@ -1,14 +1,12 @@
 #title{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 350%;
+    font-size: 250%;
     color: gold;
-    /* display:block */
-    
 }
-
 body{
     background-color: red;
+    width: auto;
 }
 
 #navBar{
@@ -28,17 +26,19 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding-top: 25px;
+    padding-bottom: 25px;
 
 }
   
   
   #movieList{
-    padding-top: 25px;
+    padding-top: 1px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     font-family: Arial, Helvetica, sans-serif;
     color: gold;
+    border: 5px solid gold;
   }
   
 
@@ -53,7 +53,16 @@ h2{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: gold;
-    text-decoration: underline;
+  
+}
+
+#recentReviews{
+  text-decoration: underline;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gold;
+  border: 3px solid gold;
+  /* display: block; */
 }
 
 #countDown {
@@ -85,5 +94,6 @@ h2{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: gold;
+    
   }
 
